@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">k2022_03_09_Radio</string>
+    <string name="play_pause_button">Play pause button</string>
+    <string name="full_screen_button">Full screen</string>
+</resources>
